@@ -265,7 +265,7 @@ export default function HomePage() {
           <SectionTitle
             eyebrow="Üretim"
             title="Tesis standardı: temiz süreç, net kalite"
-            desc="Süreci kısa loop videolarla anlatacağız. Bu bölüm güveni çok yükseltir."
+            desc="Üretimin her aşaması hijyen, kalite kontrol ve süreklilik esaslarına göre yönetilir."
           />
 
           <div className="mt-10 grid gap-5 md:grid-cols-3">
